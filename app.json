@@ -2,13 +2,13 @@
     "name": "اختراق",
     "description": "User bot for telegram !",
     "stack": "container",
-    "repository": "https://github.com/rogerpq/Hack-Termks0",
+    "repository": "https://github.com/E9N99/tt",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://t.me/Repthon",
+    "website": "https://t.me/E9N99",
     "env": {
         "API_ID": {
             "description": "ايبي ايدي",
